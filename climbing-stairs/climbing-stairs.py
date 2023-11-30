@@ -25,7 +25,8 @@ class Solution:
 
             for i in range(3, len(result)):
                 result[i] = result[i - 2] + result[i - 1]
-            
+            # Time complexity O(n)
+            # Space complexity O(n)
             return result[n]
 
 class TestSolution(unittest.TestCase):
