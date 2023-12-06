@@ -17,3 +17,4 @@ Lets try 75 coding problems in python
 13. Maximum depth of a binary tree.
 14. Climbing Stairs.
 15. Number of 1 bits.
+16. Implement Trie.
