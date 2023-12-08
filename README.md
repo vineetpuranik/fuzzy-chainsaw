@@ -19,3 +19,4 @@ Lets try 75 coding problems in python
 15. Number of 1 bits.
 16. Implement Trie.
 17. Length of Longest Substring without repeating characters.
+18. Course Schedule.
