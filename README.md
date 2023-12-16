@@ -20,3 +20,9 @@ Lets try 75 coding problems in python
 16. Implement Trie.
 17. Length of Longest Substring without repeating characters.
 18. Course Schedule.
+19. Contains Duplicate
+20. Valid Anagram
+21. Two Sum
+22. Subtree of another tree (Learn this and it will cover same tree as well)
+23. Lowest common ancestor
+
