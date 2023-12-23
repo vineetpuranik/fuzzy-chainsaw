@@ -28,4 +28,5 @@ Lets try 75 coding problems in python
 24. Valid parentheses
 25. Rotten Oranges
 26. House Robber 2
+27. Min Stack
 
