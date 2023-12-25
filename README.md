@@ -29,4 +29,5 @@ Lets try 75 coding problems in python
 25. Rotten Oranges
 26. House Robber 2
 27. Min Stack
+28. Merge Intervals
 
