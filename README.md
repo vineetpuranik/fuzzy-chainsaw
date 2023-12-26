@@ -31,4 +31,5 @@ Lets try 75 coding problems in python
 27. Min Stack
 28. Merge Intervals
 29. Non overlapping Intervals.
+30. Reverse linked list.
 
