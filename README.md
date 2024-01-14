@@ -35,4 +35,5 @@ Lets try 75 coding problems in python
 31. Merge two sorted lists.
 32. Group Anagrams.
 33. Length of the longest increasing subsequence.
+34. Length of the longest consecutive sequence.
 
