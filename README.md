@@ -37,4 +37,4 @@ Lets try 75 coding problems in python
 33. Length of the longest increasing subsequence.
 34. Length of the longest consecutive sequence.
 35. Binary Tree level order traversal.
-
+36. Add and search words data structure. (Trie + add + search including dots)
