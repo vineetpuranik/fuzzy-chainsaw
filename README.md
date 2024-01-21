@@ -1,5 +1,5 @@
 # fuzzy-chainsaw
-Lets try 75 coding problems in python
+LeetCode problems
 
 ## Completed Items
 1. Meeting Rooms.
@@ -38,3 +38,5 @@ Lets try 75 coding problems in python
 34. Length of the longest consecutive sequence.
 35. Binary Tree level order traversal.
 36. Add and search words data structure. (Trie + add + search including dots)
+37. Two Sum II
+38. 3 Sum
