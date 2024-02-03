@@ -41,3 +41,4 @@ LeetCode problems
 37. Two Sum II
 38. 3 Sum
 39. Kth Smallest element in BST
+40. Detect cycle in a singly linked list. (Floyd's Algorithm)
