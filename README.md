@@ -40,3 +40,4 @@ LeetCode problems
 36. Add and search words data structure. (Trie + add + search including dots)
 37. Two Sum II
 38. 3 Sum
+39. Kth Smallest element in BST
