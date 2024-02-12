@@ -42,3 +42,4 @@ LeetCode problems
 38. 3 Sum
 39. Kth Smallest element in BST
 40. Detect cycle in a singly linked list. (Floyd's Algorithm)
+41. Palindromic Substrings. O(n^2_ : Brute force solution
