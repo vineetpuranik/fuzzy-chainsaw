@@ -48,3 +48,4 @@ LeetCode problems
 44. Koko eating bananas.
 45. Crawler Log Folder.
 46. Middle of the linked list.
+47. Number of changing keys.
