@@ -49,3 +49,4 @@ LeetCode problems
 45. Crawler Log Folder.
 46. Middle of the linked list.
 47. Number of changing keys.
+48. Evaluate Full Binary Tree.
